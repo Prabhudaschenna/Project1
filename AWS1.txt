@@ -1,0 +1,13 @@
+ AWS
+ 1. FSF =  free softwar foundation 
+ 2. FSF is a linux server which was  created by the linus torvalds , it was started by 1980 and was launched on the 1992 
+ 3. The operating system take the user request and convert the human language into binary language 
+ 4. They are 6 steps to convert the human language into binary language 
+     step 1: take the user request
+     step 2: the request will be send to the computer
+     step 3: the computer will take the request the and send to the os
+     step 4: the os will converts the human language to binary language 
+     step 5: the os gives to the output to the computer
+     step 6: the computer gives the output to the user 
+  
+5. AMI = Amazon mission image it is a os server and named as ami and it was named by the amazon web services
